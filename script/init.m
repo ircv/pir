@@ -9,14 +9,14 @@
 % addpath('C:\Users\irene\OneDrive\Documenti\ISAE\PIR\pir1\ode');
 % addpath('C:\Users\irene\OneDrive\Documenti\ISAE\PIR\pir1\plot');
 % addpath('C:\Users\irene\OneDrive\Documenti\ISAE\PIR\pir1\richardson');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\computation');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\data');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\derivatives');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\differential correction');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\initialization');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\ode');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\plot');
-addpath('C:\Users\Robin\Documents\SUPAERO\2A\PIR\pir-source\richardson');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\computation');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\data');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\derivatives');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\differential correction');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\initialization');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\ode');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\plot');
+addpath('C:\Users\Robin\Documents\SUPAERO\pir\richardson');
 
 
 %% adding data
