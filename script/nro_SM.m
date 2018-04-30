@@ -20,4 +20,3 @@ orbit = init_orbit(cr3bp, ...                     % Parent CR3BP
                    cst);                          % Numerical constants
 %% Orbit
 orbit=orbit_computation(cr3bp,orbit,default,cst);
-
