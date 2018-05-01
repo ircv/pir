@@ -93,6 +93,12 @@ cst.orbit.type.HALO  = 'HALO';
 cst.orbit.type.VLYAP = 'VERTICAL_LYAPUNOV';
 cst.orbit.type.PLYAP = 'PLANAR_LYAPUNOV';
 
+%Subtype
+cst.orbit.subtype.HALO  = 'HALO';
+cst.orbit.subtype.NRO   = 'NRO';
+cst.orbit.subtype.VLYAP = 'VLYAP';
+cst.orbit.subtype.PLYAP = 'PLANAR_LYAPUNOV';
+
 %-------------------------------------------------------------------------%
 % Type of differential corrector
 %-------------------------------------------------------------------------%
