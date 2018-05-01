@@ -1,4 +1,4 @@
-function orbit =  init_orbit(cr3bp, li, type, family, Afdim, cst)
+function orbit =  init_orbit(cr3bp, li, type, family, Afdim, cst, subtype)
 % INIT_ORBIT initializes an orbit (halo, vertical of planar lyapunov)
 % of the CRTBP.
 %
@@ -48,6 +48,11 @@ orbit.li = li;
 
 %Type
 orbit.type  = type;
+if( strcmp(orbit.type,cst.orbit.type.HALO) )
+    if (nargin==7)
+        orbit.subtype = subtype;
+    end
+end
 
 %Family
 switch(type)
